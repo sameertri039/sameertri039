@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sameertri039
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Data Structure and Algorithm and Web Development
 - 📫 How to reach me https://www.linkedin.com/in/sameertri039/
 
